@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![This is an image](https://i.imgur.com/daKzFtM.png)
+![This is an image](https://i.imgur.com/72CnsH1.jpg)
 
 # Hi, welcome to my GitHub! 👋🏽
 
