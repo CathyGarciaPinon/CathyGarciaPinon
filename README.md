@@ -27,3 +27,23 @@ At the heart of my brand is a passion for continuous learning and growth. I have
   <img src="https://camo.githubusercontent.com/1b3a98a6f9dc0b661fff8ca80b84338580750ffba882bd625efe869293d05307/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6c696e6b6564696e" alt="linkedin logo link" data-canonical-src="https://skillicons.dev/icons?i=linkedin" style="max-width: 100%;">
 </a>
 
+
+## My Projects
+<a href="https://home-haven.herokuapp.com/">HomeHaven</a>
+A website for properties being sold by owner! Our goal is to provide homeowners like you with the resources and support you need to sell your property without the involvement of traditional real estate agents. By eliminating the middleman, you have the opportunity to save on commission fees and have more control over the sale of your home.
+
+<a href="https://city-serve-eastbay.herokuapp.com/">City-Serve</a>
+City Serve is a place to get memebers of our community connected with non-profit organizations who have a need or pending outreach requests for volunteers.
+
+<a href="https://dog-collector-ga.herokuapp.com/">Dog Collector</a>
+Allows users to keep track of their Dogs feeding schedule and other pet supplies. 
+
+<a href="https://nomadland.herokuapp.com/">Nomadland</a>
+A trusted platform for  Nomads and travelers to share their experiences around the world and learn about new travel destinations from other travelers.
+
+<a href="https://cathygarciapinon.github.io/Spaceman/">Reindeer Names</a>
+Like Spaceman, Reinder Names gives the opportunity for the player to help guess a word. In this game the secret word would be one of Santa's Reindeer names which are either DASHER, DANCER, PRANCER, VIXEN, COMET, CUPID, DONNER, BLITZEN, or RUDOLPH.
+
+
+
+
