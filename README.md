@@ -38,7 +38,7 @@ City Serve is a place to get memebers of our community connected with non-profit
 <a href="https://dog-collector-ga.herokuapp.com/">Dog Collector</a>
 Allows users to keep track of their Dogs feeding schedule and other pet supplies. 
 
-<a href="https://nomadland.herokuapp.com/">Nomadland</a>
+<a href="https://nomadland-cgp.herokuapp.com/">Nomadland</a>
 A trusted platform for  Nomads and travelers to share their experiences around the world and learn about new travel destinations from other travelers.
 
 <a href="https://cathygarciapinon.github.io/Spaceman/">Reindeer Names</a>
