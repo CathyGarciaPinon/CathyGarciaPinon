@@ -35,14 +35,14 @@ A website for properties being sold by owner! Our goal is to provide homeowners 
 <a href="https://city-serve-eastbay.herokuapp.com/">City-Serve</a>
 City Serve is a place to get memebers of our community connected with non-profit organizations who have a need or pending outreach requests for volunteers.
 
-<a href="https://dog-collector-ga.herokuapp.com/">Dog Collector</a>
-Allows users to keep track of their Dogs feeding schedule and other pet supplies. 
-
 <a href="https://nomadland-cgp.herokuapp.com/">Nomadland</a>
 A trusted platform for  Nomads and travelers to share their experiences around the world and learn about new travel destinations from other travelers.
 
 <a href="https://cathygarciapinon.github.io/Spaceman/">Reindeer Names</a>
 Like Spaceman, Reinder Names gives the opportunity for the player to help guess a word. In this game the secret word would be one of Santa's Reindeer names which are either DASHER, DANCER, PRANCER, VIXEN, COMET, CUPID, DONNER, BLITZEN, or RUDOLPH.
+
+<a href="https://dog-collector-ga.herokuapp.com/">Dog Collector</a>
+Allows users to keep track of their Dogs feeding schedule and other pet supplies. 
 
 
 
