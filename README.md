@@ -30,7 +30,7 @@ At the heart of my brand is a passion for continuous learning and growth. I have
 
 ## My Projects
 <a href="https://home-haven.herokuapp.com/">HomeHaven</a>
-A website for properties being sold by owner! Our goal is to provide homeowners like you with the resources and support you need to sell your property without the involvement of traditional real estate agents. By eliminating the middleman, you have the opportunity to save on commission fees and have more control over the sale of your home.
+A website for homes sold by owner! Our goal is to provide homeowners with the resources and support needed to sell their property with complete control. 
 
 <a href="https://city-serve-eastbay.herokuapp.com/">City-Serve</a>
 City Serve is a place to get memebers of our community connected with non-profit organizations who have a need or pending outreach requests for volunteers.
