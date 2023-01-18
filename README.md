@@ -33,7 +33,7 @@ At the heart of my brand is a passion for continuous learning and growth. I have
 A website for homes sold by owner! Our goal is to provide homeowners with the resources and support needed to sell their property with complete control. 
 
 <a href="https://city-serve-eastbay.herokuapp.com/">City-Serve</a>
-City Serve is a place to get memebers of our community connected with non-profit organizations who have a need or pending outreach requests for volunteers.
+City Serve is a place to get members of our community connected with non-profit organizations who have a need or pending outreach requests for volunteers.
 
 <a href="https://nomadland-cgp.herokuapp.com/">Nomadland</a>
 A trusted platform for  Nomads and travelers to share their experiences around the world and learn about new travel destinations from other travelers.
